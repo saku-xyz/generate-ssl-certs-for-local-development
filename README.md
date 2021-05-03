@@ -57,5 +57,3 @@ When you run this script it will
 
  - Firefox doesn't use the macOS keychain (it maintains its own certificate store), In order for your CA-signed certificates to be recognized by Firefox you'll need to go into the Firefox settings and manually add the `pem` file to Firefox.
  
- ## Other Scripts
-  - If you need a more robust solution for Windows or Linux check out https://github.com/FiloSottile/mkcert
